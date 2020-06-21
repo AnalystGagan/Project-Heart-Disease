@@ -1,2 +1,2 @@
 # Project-Heart-Disease
-## This is a binary classification problem, where my goal is to classify unseen patient record as heart disease or No heart diease. 
+## This notebook looks into using various Python-based machien learning and fata science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
